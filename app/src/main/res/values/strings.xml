@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Tekus Saltos</string>
+    <string name="notification_title">Notificaciones</string>
+
+    <string name="notification_id">Id:</string>
+    <string name="notification_date">Fecha y Hora:</string>
+    <string name="notification_duration">Duración:</string>
+
+    <string name="button_service_on">Detectar movimiento</string>
+    <string name="button_service_off">No detectar movimiento</string>
+
+    <string name="generic_error">Se ha producido un error, por favor inténtelo nuevamente</string>
+</resources>
